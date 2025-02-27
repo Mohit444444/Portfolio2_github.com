@@ -1,2 +1,2 @@
 # Portfolio_github.com
-This was my first portfolio as a beginner.
+This is my first portfolio as a beginner.
